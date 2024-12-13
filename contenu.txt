@@ -1,0 +1,30 @@
+MaliCode
+
+Le Langage Fondamental du Web : HTML
+
+Posté par Fatoumata Diarra,le lundi 23 janvier 2025
+
+Tous les sites web et applications modernes sont construits à partir de trois technologies fondamentales : HTML, CSS et JavaScript. Ce sont les langues du web.
+
+Dans cet article, nous allons nous concentrer sur HTML. Nous découvrirons ce qu'est HTML et pourquoi vous devriez également l'apprendre.
+
+Qu'est-ce que HTML ?
+HTML signifie HyperText Markup Language. C’est un langage de balisage utilisé par les développeurs web pour structurer et décrire le contenu d’une page web (ce n'est pas un langage de programmation).
+
+HTML est constitué d’éléments qui décrivent différents types de contenu : paragraphes, liens, titres, images, vidéos, etc. Les navigateurs web interprètent le code HTML et le rendent sous forme de sites web.
+
+Dans HTML, chaque élément est composé de 3 parties :
+
+1-La balise ouvrante
+2-La balise fermante
+3-Le contenu de l'élément
+Vous pouvez en apprendre davantage sur les documents web de MDN.
+
+Pourquoi apprendre HTML ?
+Il existe de nombreuses raisons d'apprendre le langage fondamental du web. Voici 5 d'entre elles :
+
+1-Pouvoir utiliser la langue de base du développement web.
+2-Créer de magnifiques sites web personnalisés sans dépendre d'outils comme WordPress ou Wix.
+3-Concevoir des applications web.
+4-Impressionner vos amis ou collègues.
+5-S’amuser 😃.
